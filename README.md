@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I'm Simaspog!
 
-<!--
-**simaspogsigma/simaspogsigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **15-year-old developer** with **1 year of experience**, currently focused on creating high-quality, custom Minecraft plugins to make servers more fun and unique.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🧠 Learning and improving every day!
+- 💻 Developer with experience in **Java** and **Skript**
+- 🎮 Passionate about Minecraft server development
+- 🛠️ Currently working on improving my plugin creation skills to make **perfect and custom plugins** that take servers to the next level.
+
+---
+
+## 🚀 Projects
+
+### 🌐 Public
+- **[NoLootSpread](https://builtbybit.com/resources/nolootspread-fix-loot-drops-on-death.67014/)]** — A simple plugin that prevents loot from spreading across the ground.
+
+### 🔒 Private
+- **RushBoxCore** — A custom core made for a private server project.
+
+---
+
+## 📫 Contact Me
+
+- **Discord:** `simaspog.`  
+(Feel free to reach out if you want to collaborate or chat!)
+
+---
+
+## 🌟 Goals
+
+- Master advanced plugin development
+- Release more public and open-source projects
+- Learn best practices for clean, scalable code
+
+Thanks for visiting my profile! 🚀
