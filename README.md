@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a **15-year-old developer** with **1 year of e
 ## 🚀 Projects
 
 ### 🌐 Public
-- **[NoLootSpread](https://builtbybit.com/resources/nolootspread-fix-loot-drops-on-death.67014/)]** — A simple plugin that prevents loot from spreading across the ground.
+- **[NoLootSpread](https://builtbybit.com/resources/nolootspread-fix-loot-drops-on-death.67014/)** — A simple plugin that prevents loot from spreading across the ground.
 
 ### 🔒 Private
 - **RushBoxCore** — A custom core made for a private server project.
