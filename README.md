@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Simaspog!
 
-Welcome to my GitHub profile! I'm a **15-year-old developer** with **1 year of experience**, currently focused on creating high-quality, custom Minecraft plugins to make servers more fun and unique.
+Welcome to my GitHub profile! I'm a **15-year-old developer** with **2 year of experience**, currently focused on creating high-quality, custom Minecraft plugins to make servers more fun and unique.
 
 ---
 
